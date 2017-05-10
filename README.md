@@ -10,11 +10,12 @@
 
 ## アプリに入れる方法  
 注意：**自作のデータはバックアップを取っておいて下さい**  
-1) opneing.db をクリック  
-2) Rawというボタンを右クリックし、「対象をファイルに保存」を行い、任意の場所にファイルを保存  
+1) opening.db をクリック  
+2) Downloadボタンで任意の場所に保存  
 3) 携帯端末のdoneX/opening.dbをダウンロードしたものに置換  
 
 ## おまけ　データを視覚的に確認する方法  
 1) [DB Browser for SQLite](http://sqlitebrowser.org/)をダウンロード  
 2) opening.dbを開く  
+  
   
